@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 📝 I regularly write articles on [https://medium.com/@kaurharshpt6](https://medium.com/@kaurharshpt6)
-
 - 💬 Ask me about **react, recoil, node, typescript, tailwindcss, mongodb**
 
 - 📫 How to reach me **harshpreetkaur1403@gmail.com**

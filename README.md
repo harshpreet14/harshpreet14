@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Typescript**
 
-- 💬 Ask me about ** html5, javascript, react, recoil, tailwindcss, node, mongodb, express**
+- 💬 Ask me about **html5, javascript, react, recoil, tailwindcss, node, mongodb, express**
 
 - 📫 How to reach me **harshpreetkaur1403@gmail.com**
 

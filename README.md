@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [JournalEase](https://github.com/harshpreet14/journalling)
 
-- 🌱 I’m currently learning **Typescript, Docker, Redis**
+- 🌱 I’m currently learning **Typescript, Docker**
 
 - 💬 Ask me about **html5, javascript, react, recoil, tailwindcss, node, mongodb, express**
 
